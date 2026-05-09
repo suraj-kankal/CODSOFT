@@ -19,5 +19,5 @@ A fun, interactive Java console game where the player tries to guess a randomly 
    javac GuessingNumberELC.java
 
 2. **Run the program:**
-  ```bash
-  java GuessingNumberELC
+   ```bash
+   java GuessingNumberELC
