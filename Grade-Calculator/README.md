@@ -17,3 +17,7 @@ A Java console application that calculates student performance based on marks ob
 1. **Compile the program:**
    ```bash
    javac GradeShowELC.java
+
+2. **Run the program:**
+   ```bash
+   java GradeShowELC
