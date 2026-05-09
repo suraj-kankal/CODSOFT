@@ -1,25 +1,40 @@
-# 🎓 Student Grade Portal (Java 25)
+# 🚀 Java Console Applications Portfolio
 
-A lightweight, console-based application built using **Java 25** that allows educators to calculate total marks, average percentages, and assign letter grades for students across multiple subjects.
+A collection of functional, console-based utility applications built using **Java 25**. This repository demonstrates core Java concepts including Object-Oriented Programming (OOP), input validation, and the latest `java.io.IO` features.
 
-## 🚀 Features
-*   **Dynamic Subject Input:** Handle any number of subjects.
-*   **Input Validation:** Prevents invalid marks (below 0 or above 100).
-*   **Automatic Grade Calculation:** Uses logic to assign grades from A+ to F.
-*   **Java 25 IO:** Utilizes the latest `java.io.IO` features for a modern console experience.
+---
 
-## 🛠️ Technologies Used
+## 📂 Projects Overview
+
+### 1. 🔢 Number Guessing Game
+A fun interactive game where the computer selects a random number, and the user tries to guess it within a limited number of attempts.
+*   **Key Features:** Random number generation, attempt tracking, and high-score logic.
+
+### 2. 🎓 Student Grade Calculator
+An educational tool to manage student performance. Input marks for multiple subjects to get an instant academic report.
+*   **Key Features:** Automated average calculation, percentage tracking, and grade assignment (A+ through F).
+
+### 3. 🏧 ATM Machine Interface
+A simulation of a real-world ATM banking system.
+*   **Key Features:** Balance inquiry, secure withdrawals (with balance checks), and deposit functionality.
+
+---
+
+## 🛠️ Technical Stack
 *   **Language:** Java 25
-*   **Feature Set:** JEP 495 (Simple Source Files & Instance Main Methods)
-*   **Input/Output:** `java.io.IO`
+*   **Features:** JEP 495 (Simple Source Files), Instance Main Methods.
+*   **IO Handling:** Modern `java.io.IO` library for streamlined console interaction.
 
-## 📂 Project Structure
-*   `GradeShowELC.java`: The Execution Logic Class (Main entry point).
-*   `GradeCalculate.java`: The Business Logic Class (Handles calculations).
+---
 
-## 📋 How to Run
-Ensure you have the **JDK 25** installed on your system.
+## 🚀 How to Run
 
-1. **Clone the repository:**
+### Prerequisites
+*   **JDK 25** must be installed on your machine.
+*   Verify your version by running: `java -version`.
+
+### Execution Steps
+1. **Clone the Repo:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   cd YOUR_REPO_NAME
