@@ -15,6 +15,9 @@ A Java-based console application for managing basic bank account transactions.
 
 ## 🛠️ Installation & Running
 1. **Compile the program:**
+   ```bash
    javac FinalELC.java
+   
 2. **Run the program:**
+   ```bash
    java FinalELC
