@@ -33,8 +33,4 @@ A simulation of a real-world ATM banking system.
 *   **JDK 25** must be installed on your machine.
 *   Verify your version by running: `java -version`.
 
-### Execution Steps
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)](https://github.com/suraj-kankal/CODSOFT.git)
-   cd CODSOFT
+
